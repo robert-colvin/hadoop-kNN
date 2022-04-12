@@ -9,7 +9,7 @@
   <url>http://maven.apache.org</url>
 <!--from eldawy instrux-->
   <properties>
-    <hadoop.version>2.9.0</hadoop.version>
+    <hadoop.version>3.2.3</hadoop.version>
   </properties>
 <!---->
   <dependencies>
